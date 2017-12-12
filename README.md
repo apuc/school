@@ -4,4 +4,4 @@
 2. yii migrate/up --migrationPath=@yii/rbac/migrations
 3. yii migrate или установить дамп базы
 
-Для входа в админ панель ВАШ_ДОМКЕН/secure
+Для входа в админ панель ВАШ_ДОМЕН/secure
